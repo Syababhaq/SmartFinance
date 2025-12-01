@@ -1,7 +1,9 @@
 
 # 📱 Smart Finance Manager
 
-Smart Finance Manager is a comprehensive personal finance application built with Flutter. It helps users track cash flow, plan budgets with specific frequencies (Daily / Weekly / Monthly), manage debts with due-date notifications, and visualize financial health through dynamic charts.
+Smart Finance Manager is a comprehensive personal finance application built with Flutter. It helps users track cash flow, plan budgets with specific frequencies (Daily / Weekly / Monthly), manage debts with due-date notifications, and visualize financial health through dynamic charts. 
+
+(Go to release to download SmartFinance.apk)
 
 ---
 
